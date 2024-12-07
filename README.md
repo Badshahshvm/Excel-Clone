@@ -10,7 +10,7 @@ UI -> Breakdown
 subsection identify
 html , css
 js wala
-grid ->construction -> you run
+grid ->construction -> 
 
 2d loop of
 rows -> 0 to 99 and
