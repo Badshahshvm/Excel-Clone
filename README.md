@@ -1,4 +1,4 @@
-Excel clone :- https://badshahshvm.github.io/Excel-Clone/
+Excel clone :- https://badshahshvm.github.io/Excel-Clone
 
 Created a web version of excel using vanilla Javascript ,HTML and CSS.
 All the features such as 2d grid, rows ,columns,sheets, formula and address bar were build using vanilla js and css.
