@@ -23,7 +23,7 @@ How formatting will work in the case of cells
 
 when a button is clicked -> check the address ->
 current address findout -> rowid , colid -> update that div
-2d array -> state save rakhta hai whole grid -> kis time kya status har ek 
+2d array -> state save rakhta hai whole grid -> kis time kya status har e
 value
 formula
 italic
