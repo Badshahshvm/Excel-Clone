@@ -17,7 +17,7 @@ rows -> 0 to 99 and
 col -> 0 to 25
 How to get the address of a cell
 
-we gave rowid , colid to every cell while construction
+we gave rowid , colid to every cell while constructio
 to get the address -> rowid+1, charcter(colid+65)
 How formatting will work in the case of cells
 
