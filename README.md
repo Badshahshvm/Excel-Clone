@@ -7,7 +7,7 @@ Formula is implemented using DFS algorithm and evaluation of that formula is don
 Appoach
 UI -> Breakdown
 
-subsection identify
+subsection identif
 html , cs
 js wala
 grid ->construction 
